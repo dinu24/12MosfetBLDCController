@@ -1,4 +1,4 @@
-![BottomLayer_2D](https://github.com/dinu24/12MosfetBLDCController/assets/81697064/c316286c-27ec-4964-b2fd-444e8bafe043)# 12MosfetBLDCController
+# 12MosfetBLDCController
 PCB Gerber files for 12 Mosfet BLDC Controller circuit. 
 
 TopLayer
